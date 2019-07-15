@@ -7,9 +7,9 @@
 
 **Problem:** Using netcat (nc) will be a necessity throughout your adventure. Can you connect to 2018shell.picoctf.com at port 49387 to get the flag?
 
-**Wskaz體ka:** nc tutorial
+**Wskaz贸wka:** nc tutorial
 
-**Rozwi箊anie:**
+**Rozwi膮zanie:**
 
 ![NC](pictures/picoctfnc1.PNG) 
 
@@ -19,10 +19,10 @@
 
 **Problem:** Okay, so we found some important looking files on a linux computer. Maybe they can be used to get a password to the process. Connect with nc 2018shell.picoctf.com 35225. Files can be found here: [passwd](https://2018shell.picoctf.com/static/a488bb3c175bc843e0fbce95fff920d9/passwd) [shadow](https://2018shell.picoctf.com/static/a488bb3c175bc843e0fbce95fff920d9/shadow).
 
-**Wskaz體ka:** If at first you don't succeed, try, try again. And again. And again.
+**Wskaz贸wka:** If at first you don't succeed, try, try again. And again. And again.
 If you're not careful these kind of problems can really "rockyou".
 
-**Rozwi箊anie:**
+**Rozwi膮zanie:**
 
 ![Johnny](pictures/picoctfjohn1.PNG) 
 
@@ -32,10 +32,10 @@ If you're not careful these kind of problems can really "rockyou".
 
 **Problem:** During your adventure, you will likely encounter a situation where you need to process data that you receive over the network rather than through a file. Can you find a way to save the output from this program and search for the flag? Connect with 2018shell.picoctf.com 48696.
 
-**Wskaz體ka:** Remember the flag format is picoCTF{XXXX}
+**Wskaz贸wka:** Remember the flag format is picoCTF{XXXX}
 Ever heard of a pipe? No not that kind of pipe... [This](http://www.linfo.org/pipes.html) kind
 
-**Rozwi箊anie:**
+**Rozwi膮zanie:**
 
 ![pipe](pictures/picoctfpipe1.PNG) 
 
@@ -45,9 +45,9 @@ Ever heard of a pipe? No not that kind of pipe... [This](http://www.linfo.org/pi
 
 **Problem:** It's never a bad idea to brush up on those linux skills or even learn some new ones before you set off on this adventure! Connect with nc 2018shell.picoctf.com 27833.
 
-**Wskaz體ka:** Linux for [Beginners](https://maker.pro/education/basic-linux-commands-for-beginners)
+**Wskaz贸wka:** Linux for [Beginners](https://maker.pro/education/basic-linux-commands-for-beginners)
 
-**Rozwi箊anie:**
+**Rozwi膮zanie:**
 
 ![aca1](pictures/picoctfaca1.PNG) 
 ![aca2](pictures/picoctfaca2.PNG) 
@@ -61,9 +61,9 @@ Ever heard of a pipe? No not that kind of pipe... [This](http://www.linfo.org/pi
 
 **Problem:** I forgot my password again, but this time there doesn't seem to be a reset, can you help me? http://2018shell.picoctf.com:5399
 
-**Wskaz體ka:** Client Side really is a bad way to do it.
+**Wskaz贸wka:** Client Side really is a bad way to do it.
 
-**Rozwi箊anie:** 弐骴硂 strony
+**Rozwi膮zanie:** 殴r贸d艂o strony
 
 ![client](pictures/picoctfclient1.PNG) 
 
@@ -73,10 +73,10 @@ Ever heard of a pipe? No not that kind of pipe... [This](http://www.linfo.org/pi
 
 **Problem:** I made a website so now you can log on to! I don't seem to have the admin password. See if you can't get to the flag. http://2018shell.picoctf.com:5477
 
-**Wskaz體ka:** Hmm it doesn't seem to check anyone's password, except for admins?
+**Wskaz贸wka:** Hmm it doesn't seem to check anyone's password, except for admins?
 How does check the admin's password?
 
-**Rozwi箊anie:** Ingerencja w cookisy [python](/logon/run.py)
+**Rozwi膮zanie:** Ingerencja w cookisy [python](/logon/run.py)
 
 
 ### script me - Points: 500 - (Solves: 1007)
@@ -84,9 +84,9 @@ How does check the admin's password?
 
 **Problem:** Can you understand the language and answer the questions to retrieve the flag? Connect to the service with nc 2018shell.picoctf.com 8672
 
-**Wskaz體ka:** Maybe try writing a python script?
+**Wskaz贸wka:** Maybe try writing a python script?
 
-**Rozwi箊anie:** Screen przedstawia r阠zne rozwi箊anie. Mam dodatkowo skrypt, jednak kod nie dzia砤 pomimo tego, 縠 jest prawid硂wy.
+**Rozwi膮zanie:** Screen przedstawia r臋czne rozwi膮zanie. Mam dodatkowo skrypt, jednak kod nie dzia艂a pomimo tego, 偶e jest prawid艂owy.
 ![scriptme](pictures/scriptme.PNG)
 
 
@@ -95,10 +95,10 @@ How does check the admin's password?
 
 **Problem:** Inpect this code! http://2018shell.picoctf.com:56252
 
-**Wskaz體ka:** How do you inspect a website's code on a browser?
+**Wskaz贸wka:** How do you inspect a website's code on a browser?
 Check all the website code.
 
-**Rozwi箊anie:**
+**Rozwi膮zanie:**
 
 ![inspect1](pictures/picoctfinspect1.PNG)
 ![inspect1](pictures/picoctfinspect2.PNG) 
