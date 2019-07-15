@@ -1,3 +1,5 @@
+<meta charset="utf-8">
+
 # PICO CTF - Log
 
 ### net cat - Points: 75 - (Solves: 23365)
